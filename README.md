@@ -16,7 +16,8 @@ Project name: [Machine Learning Model Comparison for Student Exam Performance]
 <img width="481" height="461" alt="Screenshot 2026-03-22 at 11 48 12 PM" src="https://github.com/user-attachments/assets/a2132710-1480-4fc8-b066-2e869ac4b0b1" /><img width="466" height="336" alt="Screenshot 2026-03-22 at 11 48 20 PM" src="https://github.com/user-attachments/assets/12b82886-c5d7-428e-ac76-98bde5ad4a69" />
 
 -  Logistic Regression achieved an ROC-AUC score of 0.996, indicating excellent predictive performance.
--  Naïve Bayes achieved an ROC-AUC score of 0.978, also demonstrating strong classification capability.<img width="451" height="466" alt="Screenshot 2026-03-22 at 11 48 00 PM" src="https://github.com/user-attachments/assets/802b509c-828e-4d39-adb1-33274174c2f4" />
+-  Naïve Bayes achieved an ROC-AUC score of 0.978, also demonstrating strong classification capability.
+  <img width="451" height="466" alt="Screenshot 2026-03-22 at 11 48 00 PM" src="https://github.com/user-attachments/assets/802b509c-828e-4d39-adb1-33274174c2f4" />
 
 -  Overall, Logistic Regression outperformed Naïve Bayes, making it the better-performing model for this task. However, the models may be benefiting from class imbalance, where one class dominates the dataset.
   
