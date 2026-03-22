@@ -22,7 +22,7 @@ Project name: [Machine Learning Model Comparison for Student Exam Performance]
 - Recognised the need to further improve model generalisation and robustness.
   
 ## Future Improvements :chart_with_upwards_trend:
-- To address the extremely high performance scores (>95%) observed in both models, future work will focus on handling potential class imbalance before model training.
+- To address the extremely high performance scores (>95%) observed in both models, I will focus on handling potential class imbalance before model training in future work.
 - In addition, further improvements will include incorporating additional features and exploring more advanced classifiers, such as Random Forest and Support Vector Machine (SVM), to enhance model robustness and generalisation.
 
 
