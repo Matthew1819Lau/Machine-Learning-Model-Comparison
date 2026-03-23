@@ -7,7 +7,8 @@ Project name: [Machine Learning Model Comparison for Student Exam Performance](h
 ## How were the problems addressed :interrobang:
   - Performed initial data analysis, including correlation analysis, to identify relationships between variables and select relevant features for model training.
   - Split the dataset into training and testing sets, applying 5-fold cross-validation to reduce overfitting and improve generalisation.
-  - Compared both models using evaluation metrics such as Recall and ROC-AUC to ensure a fair assessment and stability.<img width="434" height="308" alt="Screenshot 2026-03-22 at 11 47 17 PM" src="https://github.com/user-attachments/assets/08bc7b90-5477-450b-b42e-a8f90870935b" />
+  - Compared both models using evaluation metrics such as Recall and ROC-AUC to ensure a fair assessment and stability.
+    <img width="434" height="308" alt="Screenshot 2026-03-22 at 11 47 17 PM" src="https://github.com/user-attachments/assets/08bc7b90-5477-450b-b42e-a8f90870935b" />
 
 ## Results
 - Logistic Regression correctly classified 424 true positives and 1521 true negatives, with only 13 false positives and 24 false negatives, a high number of True Positives and True Negatives demonstrating highly accurate predictions.
