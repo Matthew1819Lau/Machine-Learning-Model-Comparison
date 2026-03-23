@@ -1,5 +1,5 @@
 ## What is the project about :question:
-Project name: [Machine Learning Model Comparison for Student Exam Performance]
+Project name: [Machine Learning Model Comparison for Student Exam Performance](https://github.com/Matthew1819Lau/Machine-Learning-Model-Comparison/blob/main/A1_Poster_Matthew%20Lau_250060300.pdf)
 
 - Conducted a machine learning study to evaluate and compare model performance in predicting student exam outcomes and supporting data-driven decision-making in education.
 - Implemented two machine learning models: (i) Logistic Regression and (ii) Naive Bayes using MATLAB to evaluate prediction accuracy.
